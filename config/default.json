@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://thomas-helfrich:Kobefan1984@merndevconnector.uvi2d.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
