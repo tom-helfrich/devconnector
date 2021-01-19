@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://thomas-helfrich:Kobefan1984@merndevconnector.uvi2d.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://thomas-helfrich:Kobefan1984@merndevconnector.uvi2d.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
